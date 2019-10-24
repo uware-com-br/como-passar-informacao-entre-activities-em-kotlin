@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='como-passar-informacao-entre-activities-em-kotlin'
